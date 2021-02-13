@@ -19,7 +19,7 @@ public class Inicio {
 	int divisao = numero1 / numero2;
 	System.out.println("O resultado: " + divisao);
 	//alterado do github	
-	
+	//alterado do eclipse
 	
 
 	}
