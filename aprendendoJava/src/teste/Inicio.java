@@ -18,6 +18,7 @@ public class Inicio {
 	int numero2 = 10;		
 	int divisao = numero1 / numero2;
 	System.out.println("O resultado: " + divisao);
+	//alterado do github	
 	
 	
 
